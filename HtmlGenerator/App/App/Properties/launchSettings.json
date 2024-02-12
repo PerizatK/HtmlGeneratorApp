@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "App": {
+      "commandName": "Project",
+      "commandLineArgs": "\"InputFiles\\\\template.html\"\r\n\"InputFiles\\\\data.json\"\r\n\"InputFiles\\\\output.html\""
+    }
+  }
+}

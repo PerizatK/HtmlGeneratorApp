@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App", "App.csproj", "{6CD79141-B78D-4791-B330-D41514D16989}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HtmlGenerator", "..\..\HtmlGenerator\HtmlGenerator\HtmlGenerator.csproj", "{38B2E9BC-037E-4EC0-9731-672DB7004448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD79141-B78D-4791-B330-D41514D16989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD79141-B78D-4791-B330-D41514D16989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD79141-B78D-4791-B330-D41514D16989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD79141-B78D-4791-B330-D41514D16989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B2E9BC-037E-4EC0-9731-672DB7004448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B2E9BC-037E-4EC0-9731-672DB7004448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B2E9BC-037E-4EC0-9731-672DB7004448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B2E9BC-037E-4EC0-9731-672DB7004448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {778519D4-25F3-47B3-95D1-E2F24C2E5242}
+	EndGlobalSection
+EndGlobal
